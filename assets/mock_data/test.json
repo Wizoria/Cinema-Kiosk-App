@@ -1,0 +1,53 @@
+{
+  "cinemaId": 3,
+  "certificate": "0070908851233",
+  "cashback": 40,
+  "lang": "ua",
+  "phone": "380974308954",
+  "email": "serhiitanko@gmail.com",
+  "clientId": "a67a7c40-d78a-11e6-8398-525400e1e25f",
+  "entryPoint": "iOS",
+  "cinema": {
+    "tickets": [
+      {
+        "row": 4,
+        "place": 5,
+        "sessionID": 228512,
+        "glass": 1,
+        "promocode": "весна"
+      },
+      {
+        "row": 4,
+        "place": 6,
+        "sessionID": 228512,
+        "glass": 0,
+        "promocode": ""
+      }
+    ]
+  },
+  "cinemarket": {
+    "products": [
+      {
+        "id": 100423,
+        "name": "Карамель",
+        "qty": 2,
+        "promocode": ""
+      },
+      {
+        "id": 101815,
+        "name": "Pepsi Cola 0,5 л",
+        "qty": 1,
+        "promocode": ""
+      },
+      {
+        "id": 101095,
+        "name": "Fanta Orange 0,5 л",
+        "qty": 1,
+        "promocode": ""
+      }
+    ]
+  }
+}
+
+
+

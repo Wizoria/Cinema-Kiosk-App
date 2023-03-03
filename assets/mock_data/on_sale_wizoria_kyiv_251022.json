@@ -1,0 +1,5022 @@
+[
+  {
+    "id": 2001455,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1455,
+    "movie": "Чорний Адам",
+    "age": "16+",
+    "ageDesc": "Старше 16 років",
+    "runtime": 124,
+    "genre": "Фантастика, Екшн",
+    "sort": 0,
+    "releaseDate": "2022-10-20 00:00:00",
+    "format": "",
+    "actors": "Двейн Джонсон, Сара Шахі, Пірс Броснан, Ной Сентінео",
+    "scenarist": "Адам Штікель, Рорі Хейнс, Сохраб Ноширвані",
+    "country": "США",
+    "producer": "Жауме Колєт-Серра",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/J5gVKp3afPg",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/black_adam_pic33.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/black_adam_pic22_ua.jpg",
+    "nameForWebRef": "black_adam",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/black_adam_pic11.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/black_adam_pic22_ua.jpg",
+    "originalMovieName": "Black Adam",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 20 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217162,
+        "format": "2D",
+        "date": "2022-10-26 12:00:00",
+        "timeStart": "12:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217163,
+        "format": "2D",
+        "date": "2022-10-26 14:30:00",
+        "timeStart": "14:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217199,
+        "format": "2D",
+        "date": "2022-10-26 13:30:00",
+        "timeStart": "13:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          }
+        ]
+      },
+      {
+        "id": 217191,
+        "format": "2D",
+        "date": "2022-10-26 18:00:00",
+        "timeStart": "18:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217201,
+        "format": "2D",
+        "date": "2022-10-26 18:45:00",
+        "timeStart": "18:45",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217197,
+        "format": "2D",
+        "date": "2022-10-25 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217200,
+        "format": "2D",
+        "date": "2022-10-26 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          }
+        ]
+      },
+      {
+        "id": 217198,
+        "format": "2D",
+        "date": "2022-10-25 18:45:00",
+        "timeStart": "18:45",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217196,
+        "format": "2D",
+        "date": "2022-10-25 13:30:00",
+        "timeStart": "13:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "______FFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFVVVFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 4,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 48,
+            "tagName": "4",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217164,
+        "format": "2D",
+        "date": "2022-10-26 17:00:00",
+        "timeStart": "17:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          }
+        ]
+      },
+      {
+        "id": 217165,
+        "format": "2D",
+        "date": "2022-10-26 19:30:00",
+        "timeStart": "19:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          }
+        ]
+      },
+      {
+        "id": 217186,
+        "format": "2D",
+        "date": "2022-10-25 18:00:00",
+        "timeStart": "18:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFSSFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFSSFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217159,
+        "format": "2D",
+        "date": "2022-10-25 14:30:00",
+        "timeStart": "14:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217161,
+        "format": "2D",
+        "date": "2022-10-25 19:30:00",
+        "timeStart": "19:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217160,
+        "format": "2D",
+        "date": "2022-10-25 17:00:00",
+        "timeStart": "17:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Минуло майже 5000 років відтоді, як стародавні боги зробили Чорного Адама (Двейн Джонсон) всемогутнім. І відразу ж запроторили до в’язниці. Проте він звільниться зі своєї земної гробниці і покаже сучасному світові власну унікальну форму правосуддя.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001467,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1467,
+    "movie": "Мій домашній крокодил",
+    "age": "0+",
+    "ageDesc": "Без вікових обмежень",
+    "runtime": 106,
+    "genre": "Сімейний, Пригоди",
+    "sort": 1,
+    "releaseDate": "2022-10-20 00:00:00",
+    "format": "",
+    "actors": "Хав'єр Бардем, Констанс Ву, Вінслов Феглі, Скут Макнейрі",
+    "scenarist": "Вілл Дейвіс, Бернард Вабер",
+    "country": "США",
+    "producer": "Джош Ґордон, Вілл Спек",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/rhYcPHOZ_Kw",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/lyle_crocodile_pic3.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/lyle_crocodile_pic2_ua.jpg",
+    "nameForWebRef": "lyle_crocodile",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/lyle_crocodile_pic1.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/lyle_crocodile_pic2_ua.jpg",
+    "originalMovieName": "Lyle, Lyle, Crocodile",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 20 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217174,
+        "format": "2D",
+        "date": "2022-10-26 12:50:00",
+        "timeStart": "12:50",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          }
+        ]
+      },
+      {
+        "id": 217172,
+        "format": "2D",
+        "date": "2022-10-25 17:10:00",
+        "timeStart": "17:10",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217176,
+        "format": "2D",
+        "date": "2022-10-26 17:10:00",
+        "timeStart": "17:10",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217175,
+        "format": "2D",
+        "date": "2022-10-26 15:00:00",
+        "timeStart": "15:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          }
+        ]
+      },
+      {
+        "id": 217171,
+        "format": "2D",
+        "date": "2022-10-25 15:00:00",
+        "timeStart": "15:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 210,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217177,
+        "format": "2D",
+        "date": "2022-10-26 19:20:00",
+        "timeStart": "19:20",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217173,
+        "format": "2D",
+        "date": "2022-10-25 19:20:00",
+        "timeStart": "19:20",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "____FFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBVBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 2,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 57,
+            "tagName": "2",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Цієї осені зустрічайте захопливу та зворушливу історію за мотивами однойменного оповідання про крокодила на ім’я Ліл! <br> \n<br> Він живе в Нью-Йорку, обожнює співати і намагається жити серед людей. Згодом Ліл зустрічає родину, яка щойно оселилися в його будинку і зовсім не очікувала такого сусідства. <br>\n<br> Так починається нова мандрівка, сповнена пригод, гумору, незабутніх хітів та справжньої дружби.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001517,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1517,
+    "movie": "Місіс Гарріс їде у Париж",
+    "age": "0+",
+    "ageDesc": "Без вікових обмежень",
+    "runtime": 115,
+    "genre": "Епічна історія",
+    "sort": 2,
+    "releaseDate": "2022-10-20 00:00:00",
+    "format": "",
+    "actors": "Роуз Вільямс, Леслі Менвілл, Ізабель Юппер, Джейсон Айзекс, Лукас Браво, Ламбер Вільсон, Роксана Дюран",
+    "scenarist": "Пол Галліко, Керролл Картрайт, Ентоні Фабіан",
+    "country": "Угорщина, Великобританія, Франція, Канада",
+    "producer": "Ентоні Фабіан",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/_2IZDKfD6rM",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/mrs_harris_goes_to_paris_pic33.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/mrs_harris_goes_to_paris_pic22_ua.jpg",
+    "nameForWebRef": "mrs_harris_goes_to_paris",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/mrs_harris_goes_to_paris_pic11.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/mrs_harris_goes_to_paris_pic22_ua.jpg",
+    "originalMovieName": "Mrs. Harris Goes to Paris",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 20 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217213,
+        "format": "2D",
+        "date": "2022-10-26 20:00:00",
+        "timeStart": "20:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1551,
+            "tagName": "Епічна історія",
+            "tagType": "genre",
+            "tagDescription": "Епічна історія"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          }
+        ]
+      },
+      {
+        "id": 217207,
+        "format": "2D",
+        "date": "2022-10-25 15:15:00",
+        "timeStart": "15:15",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1551,
+            "tagName": "Епічна історія",
+            "tagType": "genre",
+            "tagDescription": "Епічна історія"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217209,
+        "format": "2D",
+        "date": "2022-10-25 20:00:00",
+        "timeStart": "20:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1551,
+            "tagName": "Епічна історія",
+            "tagType": "genre",
+            "tagDescription": "Епічна історія"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          }
+        ]
+      },
+      {
+        "id": 217211,
+        "format": "2D",
+        "date": "2022-10-26 15:15:00",
+        "timeStart": "15:15",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1551,
+            "tagName": "Епічна історія",
+            "tagType": "genre",
+            "tagDescription": "Епічна історія"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Велика мрія однієї жінки та сукня від Dior, що змінила все. Екранізація роману Пола Галліко «Місіс Гарріс їде у Париж».<br>  \n<br>  Головна героїня, яка живе та працює прибиральницею в Лондоні, вирішує будь-що придбати омріяну сукню від видатного кутюр’є.<br> \n<br>  Так починається надзвичайна пригода вишуканим Парижем епохи 50-х років.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001476,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1476,
+    "movie": "Чорна Пантера: Ваканда назавжди",
+    "age": "16+",
+    "ageDesc": "Старше 16 років",
+    "runtime": 161,
+    "genre": "Екшн, Фантастика",
+    "sort": 2,
+    "releaseDate": "2022-11-09 00:00:00",
+    "format": "",
+    "actors": "Летішія Райт, Мартін Фріман, Теноч Уерта, Лупіта Нйонґо, Анджела Бассетт та ін.",
+    "scenarist": "Райан Куґлер, Джо Роберт Коул",
+    "country": "США",
+    "producer": "Райан Куґлер",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/kJc5eDlYT08",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/black_panther2_pic3.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/black_panther2_pic2_ua.jpg",
+    "nameForWebRef": "black_panther2",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/black_panther2_pic1.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/black_panther2_pic2_ua.jpg",
+    "originalMovieName": "Black Panther: Wakanda Forever",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 9 листопада",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": true,
+    "sessions": [
+      {
+        "id": 216831,
+        "format": "3D",
+        "date": "2022-11-10 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1939,
+            "tagName": "10.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Четвер, 10 листопада"
+          }
+        ]
+      },
+      {
+        "id": 216832,
+        "format": "3D",
+        "date": "2022-11-10 13:00:00",
+        "timeStart": "13:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 150,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1939,
+            "tagName": "10.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Четвер, 10 листопада"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216843,
+        "format": "3D",
+        "date": "2022-11-13 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2062,
+            "tagName": "13.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Неділя, 13 листопада"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          }
+        ]
+      },
+      {
+        "id": 216841,
+        "format": "3D",
+        "date": "2022-11-13 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2062,
+            "tagName": "13.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Неділя, 13 листопада"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216840,
+        "format": "3D",
+        "date": "2022-11-12 10:00:00",
+        "timeStart": "10:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 120,
+        "priceVIP": 195,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2061,
+            "tagName": "12.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Субота, 12 листопада"
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216834,
+        "format": "3D",
+        "date": "2022-11-11 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2060,
+            "tagName": "11.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "П'ятниця, 11 листопада"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216837,
+        "format": "3D",
+        "date": "2022-11-12 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2061,
+            "tagName": "12.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Субота, 12 листопада"
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216844,
+        "format": "3D",
+        "date": "2022-11-13 10:00:00",
+        "timeStart": "10:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 120,
+        "priceVIP": 195,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2062,
+            "tagName": "13.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Неділя, 13 листопада"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216835,
+        "format": "3D",
+        "date": "2022-11-11 13:00:00",
+        "timeStart": "13:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 150,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2060,
+            "tagName": "11.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "П'ятниця, 11 листопада"
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          }
+        ]
+      },
+      {
+        "id": 216839,
+        "format": "3D",
+        "date": "2022-11-12 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2061,
+            "tagName": "12.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Субота, 12 листопада"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216830,
+        "format": "3D",
+        "date": "2022-11-09 18:00:00",
+        "timeStart": "18:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2059,
+            "tagName": "09.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 9 листопада"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216833,
+        "format": "3D",
+        "date": "2022-11-10 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1939,
+            "tagName": "10.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Четвер, 10 листопада"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216842,
+        "format": "3D",
+        "date": "2022-11-13 13:00:00",
+        "timeStart": "13:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 150,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2062,
+            "tagName": "13.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Неділя, 13 листопада"
+          }
+        ]
+      },
+      {
+        "id": 216838,
+        "format": "3D",
+        "date": "2022-11-12 13:00:00",
+        "timeStart": "13:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 150,
+        "priceVIP": 220,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2061,
+            "tagName": "12.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Субота, 12 листопада"
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 216836,
+        "format": "3D",
+        "date": "2022-11-11 16:00:00",
+        "timeStart": "16:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2060,
+            "tagName": "11.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "П'ятниця, 11 листопада"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          }
+        ]
+      },
+      {
+        "id": 216829,
+        "format": "3D",
+        "date": "2022-11-09 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": true,
+        "stringStatusSeat": "_FFFFFFFFFFFFFFFFFF____/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/_FFFFFFFFFFFFFFFFFFFFF_/___.BBBBBBBBBBBBBBBB.___/",
+        "numberingRightToLeft": false,
+        "numberSeats": 160,
+        "hallNumber": 1,
+        "glassPrice": 25,
+        "price": 160,
+        "priceVIP": 245,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 56,
+            "tagName": "1",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 401,
+            "tagName": "Допрем'єрний показ",
+            "tagType": "sticker_blue",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2059,
+            "tagName": "09.11.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 9 листопада"
+          },
+          {
+            "idTag": 43,
+            "tagName": "3D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1,
+            "tagName": "LUX",
+            "tagType": "vip",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 11,
+            "tagName": "Фантастика",
+            "tagType": "genre",
+            "tagDescription": "Фантастика"
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Новий американський супергеройський фільм, заснований на коміксах видавництва Marvel Comics буде прямим продовженням однойменного фільму про супергероя Чорна Пантера. <br>\n<br>\n<br>Цього разу, стрічка «Чорна Пантера: Ваканда назавжди» від Marvel Studios оповідає історію королеви Рамонди, Шурі, М'Баку, Окоє і загону Дора Міладже. <br>\n<br> Після смерті короля Т’Чалли вони борються, щоб захистити свою націю від втручання наддержав. Та поки жителі Ваканди прагнуть розпочати життя з чистого аркуша, герої мусять об’єднатися і прокласти новий шлях для королівства. У цьому їм допоможуть бойовий пес Накія та Еверетт Росс.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001495,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1495,
+    "movie": "Тед-мандрівник: Закляття мумії",
+    "age": "0+",
+    "ageDesc": "Без вікових обмежень",
+    "runtime": 90,
+    "genre": "Сімейний, Пригоди",
+    "sort": 3,
+    "releaseDate": "2022-10-13 00:00:00",
+    "format": "",
+    "actors": "Мішель Хеннер, Александра Хіменес, Хосе Корбачо",
+    "scenarist": "Мануель Бурке, Жозеп Гателл, Ніл Ландау",
+    "country": "Іспанія",
+    "producer": "Енріке Ґато",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/Y2WOcFSZRGQ",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/tad_the_lost_explorer3_pic3.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/tad_the_lost_explorer3_pic2_ua.jpg",
+    "nameForWebRef": "tad_the_lost_explorer3",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/tad_the_lost_explorer3_pic1.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/tad_the_lost_explorer3_pic2_ua.jpg",
+    "originalMovieName": "Tad The Lost Explorer And The Emerald Tablet",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 13 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217190,
+        "format": "2D",
+        "date": "2022-10-26 16:10:00",
+        "timeStart": "16:10",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217185,
+        "format": "2D",
+        "date": "2022-10-25 16:10:00",
+        "timeStart": "16:10",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217188,
+        "format": "2D",
+        "date": "2022-10-26 12:30:00",
+        "timeStart": "12:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217184,
+        "format": "2D",
+        "date": "2022-10-25 14:20:00",
+        "timeStart": "14:20",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217189,
+        "format": "2D",
+        "date": "2022-10-26 14:20:00",
+        "timeStart": "14:20",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 31,
+            "tagName": "Сімейний",
+            "tagType": "genre",
+            "tagDescription": "Сімейний"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Випадково відкривши таємничий саркофаг Тед Джонс вивільняє стародавню небезпечну силу. Щоб повернути все назад, він вирушає у нову сповнену пригоду мандрівку. Завдань всього-нічого: об'їхати півсвіту, віднайти Смарагдову Скрижаль та нарешті покласти кінець прокляттю Мумії.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001478,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1478,
+    "movie": "Хелловін. Кінець",
+    "age": "18+",
+    "ageDesc": "Старше 18 років",
+    "runtime": 111,
+    "genre": "Жахи",
+    "sort": 4,
+    "releaseDate": "2022-10-13 00:00:00",
+    "format": "",
+    "actors": "Джеймі Лі Кертіс, Вілл Паттон, Кайл Річардс, Енді Метічак, Нік Касл",
+    "scenarist": "Кріс Берньє, Джон Карпентер, Девід Ґордон Ґрін, Дебра Гілл, Пол Бред Логан, Денні Макбрайд",
+    "country": "США",
+    "producer": "Девід Ґордон Ґрін",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/VjBko3nc75c",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/halloween_ends_pic33.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/halloween_ends_pic22_ua.jpg",
+    "nameForWebRef": "halloween_ends",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/halloween_ends_pic11.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/halloween_ends_pic22_ua.jpg",
+    "originalMovieName": "Halloween Ends",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 13 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217219,
+        "format": "2D",
+        "date": "2022-10-25 14:40:00",
+        "timeStart": "14:40",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 18,
+            "tagName": "Жахи",
+            "tagType": "genre",
+            "tagDescription": "Жахи"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217192,
+        "format": "2D",
+        "date": "2022-10-26 20:30:00",
+        "timeStart": "20:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 18,
+            "tagName": "Жахи",
+            "tagType": "genre",
+            "tagDescription": "Жахи"
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          }
+        ]
+      },
+      {
+        "id": 217223,
+        "format": "2D",
+        "date": "2022-10-26 14:40:00",
+        "timeStart": "14:40",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 18,
+            "tagName": "Жахи",
+            "tagType": "genre",
+            "tagDescription": "Жахи"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217187,
+        "format": "2D",
+        "date": "2022-10-25 20:30:00",
+        "timeStart": "20:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFFFFFF______/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/___FFFFFFFFFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 190,
+        "hallNumber": 3,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 47,
+            "tagName": "3",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 18,
+            "tagName": "Жахи",
+            "tagType": "genre",
+            "tagDescription": "Жахи"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Остання глава культового слешера про моторошного маніяка в масці Майкла Майєрса! Чи вдасться зупинити безжального вбивцю цього разу?<br>\n<br>\n<br>Взагалі-то, це вже 13 частина культового слешера про Майкла Майєрса. Ремейк 2018 року, у який повернулася Джеймі Лі Кертіс, зібрав гарні глядацькі відгуки, тому отримав швидкі сиквел «Halloween Kills» (2021) і триквел «Halloween Ends». Начебто це дійсно фінальна частина протистояння Майкла Майєрса та Лорі Строуд. Як гадаєте, хто переможе?\n",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001506,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1506,
+    "movie": "Максим Оса: Золото Песиголовця",
+    "age": "16+",
+    "ageDesc": "Старше 16 років",
+    "runtime": 110,
+    "genre": "Пригоди, Трилер",
+    "sort": 4,
+    "releaseDate": "2022-10-13 00:00:00",
+    "format": "",
+    "actors": "Василь Кухарський, Ольга Макеєва, Володимир Ющенко, Володимир Гурін, Сергій Деньга, Альбіна Корж",
+    "scenarist": "Андрій Бабік, Мирослав Латик",
+    "country": "Україна",
+    "producer": "Мирослав Латик",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/x_wXPWCXVzY",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/maksym_osa_pic33.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/maksym_osa_pic22_ua.jpg",
+    "nameForWebRef": "maksym_osa",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/maksym_osa_pic11.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/maksym_osa_pic22_ua.jpg",
+    "originalMovieName": "Максим Оса",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 13 жовтня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217225,
+        "format": "2D",
+        "date": "2022-10-26 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 10,
+            "tagName": "Триллер",
+            "tagType": "genre",
+            "tagDescription": "Триллер"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 764,
+            "tagName": "Дивись українське",
+            "tagType": "sticker_ukr",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217221,
+        "format": "2D",
+        "date": "2022-10-25 19:00:00",
+        "timeStart": "19:00",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 10,
+            "tagName": "Триллер",
+            "tagType": "genre",
+            "tagDescription": "Триллер"
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 764,
+            "tagName": "Дивись українське",
+            "tagType": "sticker_ukr",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217210,
+        "format": "2D",
+        "date": "2022-10-26 12:45:00",
+        "timeStart": "12:45",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 17,
+            "tagName": "Пригоди",
+            "tagType": "genre",
+            "tagDescription": "Пригоди"
+          },
+          {
+            "idTag": 764,
+            "tagName": "Дивись українське",
+            "tagType": "sticker_ukr",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 10,
+            "tagName": "Триллер",
+            "tagType": "genre",
+            "tagDescription": "Триллер"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Україна - 1636. <br>\n<br> Хтось напав на загін козаків, що перевозили золото польського короля. Місцевий пан Пшелуцький дозволяє козаку провести розслідування та відшукати зникле золото. Для пошуку зниклого золота наймається козак Максим Оса, але незабаром стає одним із головних підозрюваних. Усі докази приводять Осу до перевертня, який за легендами живе у місцевих лісах. <br>\n<br>\n<br> Але хто керує перевертнем? Дочка господаря Маринка, його дружина Олена, сам пан чи місцеві бандити? Під час слідства Максим Оса розуміє, що не можна вірити нікому і нічому, навіть власним очам.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001448,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1448,
+    "movie": "Швидкісний поїзд",
+    "age": "16+",
+    "ageDesc": "Старше 16 років",
+    "runtime": 126,
+    "genre": "Комедія, Екшн, Трилер, ",
+    "sort": 4,
+    "releaseDate": "2022-08-04 00:00:00",
+    "format": "",
+    "actors": "Бред Пітт, Сандра Баллок, Зазі Бітц, Джої Кінґ",
+    "scenarist": "Зак Олькевич, Котаро Ісака",
+    "country": "США",
+    "producer": "Девід Літч",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/4KP1COs-G9Q",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/bullet_train_pic3.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/bullet_train_pic2_ua.jpg",
+    "nameForWebRef": "bullet_train",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/bullet_train_pic1.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/bullet_train_pic2_ua.jpg",
+    "originalMovieName": "Bullet Train",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 4 серпня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217212,
+        "format": "2D",
+        "date": "2022-10-26 17:30:00",
+        "timeStart": "17:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFSSFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 15,
+            "tagName": "Комедія",
+            "tagType": "genre",
+            "tagDescription": "Комедія"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 10,
+            "tagName": "Триллер",
+            "tagType": "genre",
+            "tagDescription": "Триллер"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          }
+        ]
+      },
+      {
+        "id": 217208,
+        "format": "2D",
+        "date": "2022-10-25 17:30:00",
+        "timeStart": "17:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 5,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 49,
+            "tagName": "5",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 38,
+            "tagName": "Екшн",
+            "tagType": "genre",
+            "tagDescription": "Екшн"
+          },
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 15,
+            "tagName": "Комедія",
+            "tagType": "genre",
+            "tagDescription": "Комедія"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 10,
+            "tagName": "Триллер",
+            "tagType": "genre",
+            "tagDescription": "Триллер"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Бред Пітт, Санда Буллок та Аарон Тейлор-Джонсон у гостросюжетному трилері! <br>\n<br> П’ятеро найманих вбивць, яких пов’язує одна й та сама місія, опиняються разом в швидкісному поїзді. Що це, дивний збіг чи хитросплетений план? Герої з’ясують це власними методами.",
+    "movieDescriptionShort": ""
+  },
+  {
+    "id": 2001465,
+    "idCity": 2,
+    "city": "Київ",
+    "idCinema": 2,
+    "cinema": "Wizoria Київ",
+    "idMovie": 1465,
+    "movie": "Квиток до раю",
+    "age": "12+",
+    "ageDesc": "Старше 12 років",
+    "runtime": 104,
+    "genre": "Романтика, Комедія",
+    "sort": 4,
+    "releaseDate": "2022-09-10 00:00:00",
+    "format": "",
+    "actors": "Джулія Робертс, Джордж Клуні, Біллі Лурд, Кейтлін Дівер, Лукас Браво",
+    "scenarist": "Олівер Паркер",
+    "country": "США",
+    "producer": "Олівер Паркер",
+    "isvip": true,
+    "trailer": "https://www.youtube.com/embed/RzWLHxZKOik",
+    "movieImgMobile1": "https://wizoria.ua/imgalisa/ticket_to_paradise_pic3.jpg",
+    "movieImgMobile2": "https://wizoria.ua/imgalisa/ticket_to_paradise_pic2_ua.jpg",
+    "nameForWebRef": "ticket_to_paradise",
+    "nameForWebCinemaRef": "kyivnewway",
+    "dateActualityPictures": "0001-01-01 00:00:00",
+    "movieImg1": "https://wizoria.ua/imgalisa/ticket_to_paradise_pic1.jpg",
+    "movieImg2": "https://wizoria.ua/imgalisa/ticket_to_paradise_pic2_ua.jpg",
+    "originalMovieName": "Ticket to paradise",
+    "movieLanguage": "Українська",
+    "lastShowDate": "2049-01-01 00:00:00",
+    "releaseDateDescription": "Прем'єра 10 вересня",
+    "purchaseWarningText": "Під час повітряної тривоги кінотеатр зачиняється.Зберігайте квитки для обміну у касі впродовж місяця",
+    "lang": "ua",
+    "isComingSoon": false,
+    "sessions": [
+      {
+        "id": 217220,
+        "format": "2D",
+        "date": "2022-10-25 16:50:00",
+        "timeStart": "16:50",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 41,
+            "tagName": "Романтика",
+            "tagType": "genre",
+            "tagDescription": "Романтика"
+          },
+          {
+            "idTag": 2065,
+            "tagName": "25.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Вівторок, 25 жовтня"
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 15,
+            "tagName": "Комедія",
+            "tagType": "genre",
+            "tagDescription": "Комедія"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          }
+        ]
+      },
+      {
+        "id": 217222,
+        "format": "2D",
+        "date": "2022-10-26 12:30:00",
+        "timeStart": "12:30",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 135,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 41,
+            "tagName": "Романтика",
+            "tagType": "genre",
+            "tagDescription": "Романтика"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 15,
+            "tagName": "Комедія",
+            "tagType": "genre",
+            "tagDescription": "Комедія"
+          }
+        ]
+      },
+      {
+        "id": 217224,
+        "format": "2D",
+        "date": "2022-10-26 16:50:00",
+        "timeStart": "16:50",
+        "available": true,
+        "allowedBuy": true,
+        "allowedReservation": true,
+        "isvip": false,
+        "stringStatusSeat": "___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFFFFFFFFF___/___FFFFFFVFFFFFFF___/_FFFFFFFFFFFFFFFFFF_/",
+        "numberingRightToLeft": false,
+        "numberSeats": 116,
+        "hallNumber": 6,
+        "glassPrice": 25,
+        "price": 145,
+        "priceVIP": 0,
+        "isServiceSession": false,
+        "tags": [
+          {
+            "idTag": 1703,
+            "tagName": "Соррі-бонус(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2042,
+            "tagName": "-100%(Розіграш Wizoria)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 2066,
+            "tagName": "26.10.2022 00:00:00",
+            "tagType": "date",
+            "tagDescription": "Середа, 26 жовтня"
+          },
+          {
+            "idTag": 15,
+            "tagName": "Комедія",
+            "tagType": "genre",
+            "tagDescription": "Комедія"
+          },
+          {
+            "idTag": 1980,
+            "tagName": "-100(Розіграш 10 квитків)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 50,
+            "tagName": "6",
+            "tagType": "halls",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 41,
+            "tagName": "Романтика",
+            "tagType": "genre",
+            "tagDescription": "Романтика"
+          },
+          {
+            "idTag": 1650,
+            "tagName": "Розіграш(-100%)",
+            "tagType": "cashback",
+            "tagDescription": ""
+          },
+          {
+            "idTag": 42,
+            "tagName": "2D",
+            "tagType": "format",
+            "tagDescription": ""
+          }
+        ]
+      }
+    ],
+    "movieDescription": "Джордж Клуні та Джулія Робертс запрошують у райську комедію! <br>\n<br>Щоб завадити доньці вийти заміж за місцевого жителя Балі, колишнє подружжя не довго думаючи відправляється слідом за нею на тропічний острів. Усе, що їм потрібно, вберегти доньку від помилки, яку вони самі здійснили 25 років тому. Та чи вийде це у них?",
+    "movieDescriptionShort": ""
+  }
+]

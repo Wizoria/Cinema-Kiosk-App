@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Тед-мандрівник: Закляття мумії",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/tad_the_lost_explorer3_pic2_ua.jpg",
+    "keyVal": "1495"
+  },
+  {
+    "id": 2,
+    "title": "Квиток до раю",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/ticket_to_paradise_pic2_ua.jpg",
+    "keyVal": "1465"
+  },
+  {
+    "id": 3,
+    "title": "Рішення піти",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/decision_to_leave_pic2_ua.jpg",
+    "keyVal": "1515"
+  },
+  {
+    "id": 4,
+    "title": "Швидкісний поїзд",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/bullet_train_pic2_ua.jpg",
+    "keyVal": "1448"
+  },
+  {
+    "id": 5,
+    "title": "Хелловін. Кінець",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/halloween_ends_pic22_ua.jpg",
+    "keyVal": "1478"
+  },
+  {
+    "id": 6,
+    "title": "Прибулець з майбутнього ",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/the_visitor_from_future_pic2_ua.jpg",
+    "keyVal": "1505"
+  },
+  {
+    "id": 7,
+    "title": "Усміхайся",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/smile_pic2_ua.jpg",
+    "keyVal": "1464"
+  },
+  {
+    "id": 8,
+    "title": "Максим Оса: Золото Песиголовця",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/maksym_osa_pic22_ua.jpg",
+    "keyVal": "1506"
+  },
+  {
+    "id": 9,
+    "title": "Кохання напрокат",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/lease_on_love_pic2_ua.jpg",
+    "keyVal": "1504"
+  },
+  {
+    "id": 10,
+    "title": "Королева-воїн",
+    "cinema": "Wizoria Київ",
+    "imageRef": "https://wizoria.ua/imgalisa/the_woman_king_pic22_ua.jpg",
+    "keyVal": "1473"
+  }
+]

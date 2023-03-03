@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Попкорн",
+    "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+    "items": [
+      {
+        "id": 100425,
+        "name": "Шоколадний",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 90.0
+      },
+      {
+        "id": 100424,
+        "name": "Фруктовий",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 90.0
+      },
+      {
+        "id": 100423,
+        "name": "Карамель",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 90.0
+      },
+      {
+        "id": 100837,
+        "name": "Солона карамель",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 90.0
+      },
+      {
+        "id": 100165,
+        "name": "Карамель арахіс",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 90.0
+      },
+      {
+        "id": 100172,
+        "name": "Солодкий 1,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 85.0
+      },
+      {
+        "id": 100176,
+        "name": "Сіль 1,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 75.0
+      },
+      {
+        "id": 100162,
+        "name": "Бекон 1,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 75.0
+      },
+      {
+        "id": 100168,
+        "name": "Сир 1,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 75.0
+      },
+      {
+        "id": 100173,
+        "name": "Солодкий 3 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 135.0
+      },
+      {
+        "id": 100177,
+        "name": "Сіль 3 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 125.0
+      },
+      {
+        "id": 100163,
+        "name": "Бекон 3 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 125.0
+      },
+      {
+        "id": 100169,
+        "name": "Сир 3 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 125.0
+      },
+      {
+        "id": 100174,
+        "name": "Солодкий 6 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 175.0
+      },
+      {
+        "id": 100178,
+        "name": "Сіль 6 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 145.0
+      },
+      {
+        "id": 100164,
+        "name": "Бекон 6 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 145.0
+      },
+      {
+        "id": 100170,
+        "name": "Сир 6 л",
+        "image": "https://wizoria.ua/images/cinemarket/popcorn.svg",
+        "price": 145.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "3D-окуляри",
+    "image": "https://wizoria.ua/images/cinemarket/glasses.svg",
+    "items": [
+      {
+        "id": 2,
+        "name": "3D окуляри",
+        "image": "https://wizoria.ua/images/cinemarket/glasses.svg",
+        "price": 25.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Напої",
+    "image": "https://wizoria.ua/images/cinemarket/drinks.svg",
+    "items": [
+      {
+        "id": 101095,
+        "name": "Fanta Orange 0,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/drinks_fanta.svg",
+        "price": 40.0
+      },
+      {
+        "id": 101815,
+        "name": "Pepsi Cola 0,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/drinks_cola.svg",
+        "price": 30.0
+      },
+      {
+        "id": 101822,
+        "name": "7UP 0,5 л",
+        "image": "https://wizoria.ua/images/cinemarket/drinks_sprite.svg",
+        "price": 30.0
+      }
+    ]
+  }
+]
