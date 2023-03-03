@@ -1,3 +1,4 @@
+import 'dart:developer';
 import 'dart:io';
 import 'package:cinema_kiosk_app/ui/screens/advertising_posters/advertising_posters_model.dart';
 import 'package:cinema_kiosk_app/ui/screens/cinemarket/cinemarket_model.dart';
@@ -14,11 +15,10 @@ import 'models/environments/environment.dart';
 import 'package:cinema_kiosk_app/service/app_manager.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'models/movies_on_sale.dart';
-import 'package:flutter_web_plugins/url_strategy.dart';
 import 'models/presence_model.dart';
 import 'models/ticket_reservation_time_model.dart';
 import 'ui/screens/ticket_booking/ticket_booking_model.dart';
-// Test VO
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if (Platform.isWindows) {
@@ -45,8 +45,6 @@ void main() async {
   Environment().initConfig(environment);
 
   await AppManager().restoreAppSettingsFromSharedPreferences();
-
-  usePathUrlStrategy();
 
   runApp(const CinemaApp());
 }
@@ -99,7 +97,7 @@ class _CinemaApp extends State<CinemaApp> with WindowListener {
 
   @override
   onWindowEnterFullScreen() async {
-    print('EnterFullScreen');
+    log('EnterFullScreen');
     setState(() {
       var size = MediaQueryData.fromWindow(WidgetsBinding.instance.window).size;
       AppManager().setDeviceScreenParameters(size.height, size.width);
@@ -108,7 +106,7 @@ class _CinemaApp extends State<CinemaApp> with WindowListener {
 
   @override
   onWindowLeaveFullScreen() async {
-    print('LeaveFullScreen');
+    log('LeaveFullScreen');
     if (!await windowManager.isFullScreen()) {
       var size = MediaQueryData.fromWindow(WidgetsBinding.instance.window).size;
       await windowManager.setSize(Size(size.width, size.height), animate: true);
@@ -124,7 +122,7 @@ class _CinemaApp extends State<CinemaApp> with WindowListener {
   @override
   onWindowMaximize() async {
     if (await windowManager.isMaximized()) {
-      print('onWindowMaximize');
+      log('onWindowMaximize');
       setState(() {
         var size =
             MediaQueryData.fromWindow(WidgetsBinding.instance.window).size;
@@ -136,7 +134,7 @@ class _CinemaApp extends State<CinemaApp> with WindowListener {
   @override
   onWindowUnmaximize() async {
     if (await windowManager.isMinimizable()) {
-      print('onWindowUnmaximize');
+      log('onWindowUnmaximize');
       setState(() {
         var size =
             MediaQueryData.fromWindow(WidgetsBinding.instance.window).size;

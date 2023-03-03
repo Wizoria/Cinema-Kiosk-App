@@ -25,6 +25,15 @@ class SessionsListWithFiltration extends StatefulWidget {
 }
 
 class _SessionsListWithFiltration extends State<SessionsListWithFiltration> {
+
+  @override
+  void dispose() {
+    MoviesOnSale().selectedShowDate = getCurrentDate();
+    MoviesOnSale().selectedShowFormat = 'All';
+    MoviesOnSale().performSessionFiltration();
+    super.dispose();
+  }
+
   void _changeDate(int movieId, DateTime selectedDate) {
     for (Movie movie in MoviesOnSale().filtratedMoviesOnSale) {
       if (movie.id == movieId) {

@@ -28,6 +28,15 @@ class _SessionListScheduleState extends State<SessionListSchedule> {
     _futureMovieList = MoviesRepository()
         .getMoviesByCinemaId(AppManager().cinemaSettings.cinemaId);
     MoviesOnSale().selectedShowDate = getCurrentDate();
+    MoviesOnSale().selectedShowFormat = 'All';
+  }
+
+  @override
+  void dispose() {
+    MoviesOnSale().selectedShowDate = getCurrentDate();
+    MoviesOnSale().selectedShowFormat = 'All';
+    MoviesOnSale().performSessionFiltration();
+    super.dispose();
   }
 
   @override
