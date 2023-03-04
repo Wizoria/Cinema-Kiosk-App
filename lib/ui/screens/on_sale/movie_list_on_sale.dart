@@ -25,6 +25,7 @@ class _MovieListOnSaleState extends State<MovieListOnSale> {
     super.initState();
     _futureMovieList = MoviesRepository()
         .getMoviesByCinemaId(AppManager().cinemaSettings.cinemaId);
+    // MoviesOnSale().selectedShowDate = getCurrentDate();
   }
 
   callbackFunction(int index, CarouselPageChangedReason reason) {
